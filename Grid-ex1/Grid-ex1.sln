@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grid-ex1.Android", "Grid-ex1\Grid-ex1.Android\Grid-ex1.Android.csproj", "{AC75F52E-CE62-40B0-B575-FE225B391319}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grid-ex1", "Grid-ex1\Grid-ex1\Grid-ex1.csproj", "{D1808747-C50A-4CEF-A4AC-1D1E99B015DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC75F52E-CE62-40B0-B575-FE225B391319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC75F52E-CE62-40B0-B575-FE225B391319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC75F52E-CE62-40B0-B575-FE225B391319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC75F52E-CE62-40B0-B575-FE225B391319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1808747-C50A-4CEF-A4AC-1D1E99B015DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1808747-C50A-4CEF-A4AC-1D1E99B015DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1808747-C50A-4CEF-A4AC-1D1E99B015DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1808747-C50A-4CEF-A4AC-1D1E99B015DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E581A15A-3055-4B15-8BFA-6B50E4056C26}
+	EndGlobalSection
+EndGlobal

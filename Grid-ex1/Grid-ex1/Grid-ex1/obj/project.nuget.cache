@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "HCnWhrsXmY0qhqj4BCEZf6ByUyQmuuNZ+2v4S7V1bc42NKuw5V9OPOmkHYwvHQn4XuxFXZv3jbQpp2atb8wptA==",
+  "success": true,
+  "projectFilePath": "/Users/dominikstwora/Projects/aplikacje_mobilne/Grid-ex1/Grid-ex1/Grid-ex1/Grid-ex1.csproj",
+  "expectedPackageFiles": [
+    "/Users/dominikstwora/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/dominikstwora/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/dominikstwora/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/dominikstwora/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/dominikstwora/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

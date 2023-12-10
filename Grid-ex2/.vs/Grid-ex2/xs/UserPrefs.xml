@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{D4BD87F1-8CBA-41FD-818E-32B630144D31}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Grid-ex2.Android PreferredExecutionTarget="Android.pixel_5_-_api_33" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Grid-ex2/Grid-ex2/MainPage.xaml">
+    <Files>
+      <File FileName="Grid-ex2/Grid-ex2/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Grid-ex2/Grid-ex2/MainPage.xaml" Line="22" Column="126" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Grid-ex2" expanded="True">
+            <Node name="Grid-ex2" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.2.0" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_33" />
+</Properties>

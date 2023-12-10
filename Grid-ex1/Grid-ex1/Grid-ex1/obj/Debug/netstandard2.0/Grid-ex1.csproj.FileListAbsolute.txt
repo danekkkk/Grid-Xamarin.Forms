@@ -1,0 +1,15 @@
+/Users/dominikstwora/Projects/aplikacje_mobilne/Grid-ex1/Grid-ex1/Grid-ex1/bin/Debug/netstandard2.0/Grid-ex1.deps.json
+/Users/dominikstwora/Projects/aplikacje_mobilne/Grid-ex1/Grid-ex1/Grid-ex1/bin/Debug/netstandard2.0/Grid-ex1.dll
+/Users/dominikstwora/Projects/aplikacje_mobilne/Grid-ex1/Grid-ex1/Grid-ex1/bin/Debug/netstandard2.0/ref/Grid-ex1.dll
+/Users/dominikstwora/Projects/aplikacje_mobilne/Grid-ex1/Grid-ex1/Grid-ex1/bin/Debug/netstandard2.0/Grid-ex1.pdb
+/Users/dominikstwora/Projects/aplikacje_mobilne/Grid-ex1/Grid-ex1/Grid-ex1/obj/Debug/netstandard2.0/Grid-ex1.csproj.AssemblyReference.cache
+/Users/dominikstwora/Projects/aplikacje_mobilne/Grid-ex1/Grid-ex1/Grid-ex1/obj/Debug/netstandard2.0/Grid-ex1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominikstwora/Projects/aplikacje_mobilne/Grid-ex1/Grid-ex1/Grid-ex1/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/dominikstwora/Projects/aplikacje_mobilne/Grid-ex1/Grid-ex1/Grid-ex1/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/dominikstwora/Projects/aplikacje_mobilne/Grid-ex1/Grid-ex1/Grid-ex1/obj/Debug/netstandard2.0/Grid-ex1.AssemblyInfoInputs.cache
+/Users/dominikstwora/Projects/aplikacje_mobilne/Grid-ex1/Grid-ex1/Grid-ex1/obj/Debug/netstandard2.0/Grid-ex1.AssemblyInfo.cs
+/Users/dominikstwora/Projects/aplikacje_mobilne/Grid-ex1/Grid-ex1/Grid-ex1/obj/Debug/netstandard2.0/Grid-ex1.csproj.CoreCompileInputs.cache
+/Users/dominikstwora/Projects/aplikacje_mobilne/Grid-ex1/Grid-ex1/Grid-ex1/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/dominikstwora/Projects/aplikacje_mobilne/Grid-ex1/Grid-ex1/Grid-ex1/obj/Debug/netstandard2.0/Grid-ex1.dll
+/Users/dominikstwora/Projects/aplikacje_mobilne/Grid-ex1/Grid-ex1/Grid-ex1/obj/Debug/netstandard2.0/refint/Grid-ex1.dll
+/Users/dominikstwora/Projects/aplikacje_mobilne/Grid-ex1/Grid-ex1/Grid-ex1/obj/Debug/netstandard2.0/Grid-ex1.pdb
